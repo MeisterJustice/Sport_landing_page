@@ -190,6 +190,7 @@ button {
 
 ion-icon.hydrated {
     transition: .4s opacity ease;
+    font-size: 24px;
 }
 
 ion-icon.hydrated:hover {
